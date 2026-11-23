@@ -401,6 +401,32 @@ After completing this module, the main concepts covered include:
 | Windows Operating System Summary | Completed |
 
 **Course:** Cisco Operating Systems Basics  
+
+
+## 8. Practical Experience
+
+I completed the practical labs included in the Windows Operating System module.
+
+The practical work included:
+
+| Practical Lab | Status |
+|---|---|
+| Exploring Processes, Threads, Handles and Windows Registry | Completed |
+| Creating Windows User Accounts | Completed |
+| Using Windows PowerShell | Completed |
+| Windows Task Manager | Completed |
+| Monitoring and Managing System Resources | Completed |
+
+### Skills Practised
+
+- Exploring running processes and system resources.
+- Understanding Windows Registry structure.
+- Creating and managing local user accounts.
+- Executing commands using Windows PowerShell.
+- Monitoring CPU, memory, disk and network usage.
+- Using Windows administration and monitoring tools.
+
+
 **Module:** Windows Operating System  
 **Status:** Completed
 

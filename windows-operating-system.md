@@ -1,6 +1,10 @@
 
 # Windows Operating System
 
+**Course:** Cisco Operating Systems Basics  
+**Module:** 1 – Windows Overview  
+
+---
 ## 1. Windows History
 
 This section covers the development and basic characteristics of the Windows operating system.

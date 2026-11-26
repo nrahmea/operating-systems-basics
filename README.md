@@ -1,5 +1,5 @@
 
-#Operating Systems Basics
+# Operating Systems Basics
 
 This repository documents my learning journey through **Cisco Networking Academy's Operating Systems Basics** course.
 
